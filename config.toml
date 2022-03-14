@@ -1,6 +1,6 @@
 archetypeDir           = "archetypes"
 author                 = "DiBotak"
-baseUrl                = "http://localhost:1313"
+baseUrl                = "http://dibotak-hugo.netlify.app"
 buildDrafts            = false
 relativeURLs           = true
 canonifyUrls           = true
